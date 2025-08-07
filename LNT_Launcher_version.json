@@ -1,0 +1,23 @@
+{
+  "latest": "1.1",
+  "Versions": [	  
+    {
+      "Version": "1.1",
+      "Notes": [
+        "Cải thiện giao diện người dùng",
+        "Thêm tự động cập nhật",
+    ],
+      "Created": "07-08-2025",
+      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuAppNET/releases/download/v1.1/v1.1.zip"
+    },
+    {
+      "Version": "1.1",
+      "Notes": [
+        "Bản phát hành thử nghiệm mẫu Demo",
+        "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
+    ],
+      "Created": "2023-07-10",
+      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuAppNET/releases/download/v1.0/v1.0.zip"
+    }
+  ]
+}
